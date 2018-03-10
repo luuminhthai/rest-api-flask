@@ -1,2 +1,5 @@
 flask
+flask-httpauth
+flask-sqlalchemy
+flask-migrate
 redis
